@@ -1,0 +1,254 @@
+{
+    "builds": [
+        {
+            "path": "solc-windows-amd64-v0.4.25+commit.39a3dad1.zip",
+            "version": "0.4.25",
+            "build": "commit.39a3dad1",
+            "longVersion": "0.4.25+commit.39a3dad1",
+            "keccak256": "0xc48f29a73373ca25a664f1a6e7e9f781e03e4e68f066d58c09742b7442209bd4",
+            "sha256": "0x446489439e64c54b0d793498cff7899df0fd83166c3ef3e1b5dd768cbee316d8",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.4+commit.d15a3125.zip",
+            "version": "0.5.4",
+            "build": "commit.d15a3125",
+            "longVersion": "0.5.4+commit.d15a3125",
+            "keccak256": "0x4d7817bcefde06246da9629eac9936e06109bc01e4aa8fb391ca579928aa2ca1",
+            "sha256": "0xefe27a2b5c3059a43547c2d5bdba4bb31be2393dbbf3eea54e1a3f21e54086f2",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.8+commit.1f148fe1.zip",
+            "version": "0.5.8",
+            "build": "commit.1f148fe1",
+            "longVersion": "0.5.8+commit.1f148fe1",
+            "keccak256": "0xd36c5d2be0f7b3732ca280ec1b20b736ac7f848990a63a6c4d91ce1bcee67dc8",
+            "sha256": "0xa3af16b31edb7709ea6ffca695536dc386fb29d578c8f1e4999d5fa6ed817133",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.9+commit.ef2a04b8.zip",
+            "version": "0.5.9",
+            "build": "commit.ef2a04b8",
+            "longVersion": "0.5.9+commit.ef2a04b8",
+            "keccak256": "0x754bb2a60200f1aa18bdf1598fa00bd0c003618858b2ae80622021372166737f",
+            "sha256": "0xd0cd9104ceaa3b411e58b2e2cf014334d225594b6d5a6e15b6d3b472cb19daf0",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.10+commit.a1d534ef.zip",
+            "version": "0.5.10",
+            "build": "commit.a1d534ef",
+            "longVersion": "0.5.10+commit.a1d534ef",
+            "keccak256": "0x9dd40f35c5314f435dde33c76aa8a9282919d12069a1b39bd2e47e9a5f2a9fa5",
+            "sha256": "0x3e7f8519e30a39efcac60399917f9990ac694df8612596630d09df16ef3f6058",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.12+commit.29ca5e67.zip",
+            "version": "0.5.12",
+            "build": "commit.29ca5e67",
+            "longVersion": "0.5.12+commit.29ca5e67",
+            "keccak256": "0x12087856b71e2d4916b31eb69cb66a3556cef15ae56b7eafe86b802b17f459d2",
+            "sha256": "0x8e9f69b11029446a1600a53943ce122dbd9ac00daa3aa6ba6d44b330fe42cc82",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.13+commit.37057bfe.zip",
+            "version": "0.5.13",
+            "build": "commit.37057bfe",
+            "longVersion": "0.5.13+commit.37057bfe",
+            "keccak256": "0xa7d59f77ee7098bc89f4ca97507043e21262d5058a7735d0a2b4f48de8755035",
+            "sha256": "0xb46dcb9bddf95140166cae0c2e19eb67596035d3f64777cfddd195813439ec1c",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.14+commit.100ccf38.zip",
+            "version": "0.5.14",
+            "build": "commit.100ccf38",
+            "longVersion": "0.5.14+commit.100ccf38",
+            "keccak256": "0xd6655cc638f55031383064b3786fa0ce40dcab77ebde0261ab2214683a2fe3a4",
+            "sha256": "0x1d1022ce66d0c2e18c3bfb80bb957cacc8ca2966b735d237c27d7faa670ff1d6",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.15+commit.fd7f48cf.zip",
+            "version": "0.5.15",
+            "build": "commit.fd7f48cf",
+            "longVersion": "0.5.15+commit.fd7f48cf",
+            "keccak256": "0xbb97d41ce39fbf4c3429652d6e520880cb440f0c35fd7dc2b150c5396b67ebef",
+            "sha256": "0x6e921e1818a6f8655dead895832984c069ddb3bad16bc62aefc100c17f51bbbf",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.16+commit.7d79e845.zip",
+            "version": "0.5.16",
+            "build": "commit.7d79e845",
+            "longVersion": "0.5.16+commit.7d79e845",
+            "keccak256": "0x7e1fcc8adc9af60a3a4ed6c3eb2eec0b0fb5dd9cb89edc415da8f5f8176da82d",
+            "sha256": "0xe33d6a75764a5ea430581ad474a98e06e4009637c8a23bb2d164f853c627dd16",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.17+commit.0a0a1275.zip",
+            "version": "0.5.17",
+            "build": "commit.0a0a1275",
+            "longVersion": "0.5.17+commit.0a0a1275",
+            "keccak256": "0x1b24bdc4ef6a0ef89ad39e7fd58b0daa04610989e312bdb88847b3050724d536",
+            "sha256": "0xb29cab37465a59777bc19c2e12cf8cf89200efb072a7efe5e6498a478e4f3a69",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.5.18+commit.6124c569.zip",
+            "version": "0.5.18",
+            "build": "commit.6124c569",
+            "longVersion": "0.5.18+commit.6124c569",
+            "keccak256": "0x6d1cc8d98605164bc2a8f45d08bde678e6d4fbbf8fd51f4152dfa5fbf449ff3c",
+            "sha256": "0xf13396960886be1050cac874bd53c02dbae0a68e5d6d24352904d609efb1bfec",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.6.0+commit.f8669616.zip",
+            "version": "0.6.0",
+            "build": "commit.f8669616",
+            "longVersion": "0.6.0+commit.f8669616",
+            "keccak256": "0x185cd3bb7b6185d7999292d9416550056e8667c3c3a0124672bd20ee73a52a13",
+            "sha256": "0x858730aeb22197b284dc280ed8e11ea25dca2448bd71f609a83fe042d19de28d",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.6.2+commit.e3d402bc.zip",
+            "version": "0.6.2",
+            "build": "commit.e3d402bc",
+            "longVersion": "0.6.2+commit.e3d402bc",
+            "keccak256": "0x2a4373ff3414b4289212651ff1d79f7c10d9687b168aa651396d9d0faf503ea2",
+            "sha256": "0x66c983a8648060062ac2b547e62c717fef5da38bd66d0d741aa57c408cd6d3fb",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.6.8+commit.f8ac1157.zip",
+            "version": "0.6.8",
+            "build": "commit.f8ac1157",
+            "longVersion": "0.6.8+commit.f8ac1157",
+            "keccak256": "0x313bae6aa3c25b80edf40369056ea6e954e81f4c87c501b3085dbaa7aaed5959",
+            "sha256": "0xf14bd92496983225ee93728be1e561e2bce3b56d6ff3b3af757d23009542ce40",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.6.12+commit.5e807836.zip",
+            "version": "0.6.12",
+            "build": "commit.5e807836",
+            "longVersion": "0.6.12+commit.5e807836",
+            "keccak256": "0x1f4c7d0529f54dfe7ed532ced2b040da34f85cc336a4ddf4d0d8d503da2deab3",
+            "sha256": "0x5153bced2125504c1cd4496a0f040d46766020d06914ad69aa4813f9d2d8e970",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.6.13+commit.b8267195.zip",
+            "version": "0.6.13",
+            "build": "commit.b8267195",
+            "longVersion": "0.6.13+commit.b8267195",
+            "keccak256": "0xce73e16db87cb84e23ae46af77d6144dde4565bf4a1462bfdf6d48efdde20e8b",
+            "sha256": "0x214a5902ab369707f2edf0f13a9a682c606b7cfdbca3e419dd394190ed7b0d36",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.7.0+commit.a37b7b90.zip",
+            "version": "0.7.0",
+            "build": "commit.a37b7b90",
+            "longVersion": "0.7.0+commit.a37b7b90",
+            "keccak256": "0x5b2670b42df11740add8fb1b0a84384bc249cf79bb77ca4c9dfbce97657d8de4",
+            "sha256": "0x91c560b9d940f26ba21eda1e21bf0fd174df452fb438d32a1746feeeb0175235",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.7.6+commit.d1802f25.zip",
+            "version": "0.7.6",
+            "build": "commit.d1802f25",
+            "longVersion": "0.7.6+commit.d1802f25",
+            "keccak256": "0x5de5a8402acf482d5fd66af849fa8eebf18993308a0c0d003d2a57173872eb52",
+            "sha256": "0xe53e0355b2c5bedc1dbc3f9bddfea814731d72e55a3c7fabde962bd16cbab5fe",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.7.7+commit.0423f3a6.zip",
+            "version": "0.7.7",
+            "build": "commit.0423f3a6",
+            "longVersion": "0.7.7+commit.0423f3a6",
+            "keccak256": "0x1b4cb47e75f61a7f606e71d154c096eefd5c5335cc6568ce82612f5baeacd2de",
+            "sha256": "0x1140c85985793e8f6f0baf545b730ef218da5e2a3c6e003fdddd12fcc2ec34ef",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.8.0+commit.7c2e6412.zip",
+            "version": "0.8.0",
+            "build": "commit.7c2e6412",
+            "longVersion": "0.8.0+commit.7c2e6412",
+            "keccak256": "0x20fd1d54158a93405bfb336db998fc7b111c69f14b8ceff7e8a6dd623d11c4fb",
+            "sha256": "0xf08d16d5136c0c895b9b09768fb0f9f1943381537e8d7c81d151394b76238f99",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.8.6+commit.0e36fba0.zip",
+            "version": "0.8.6",
+            "build": "commit.0e36fba0",
+            "longVersion": "0.8.6+commit.0e36fba0",
+            "keccak256": "0x77b9382b6fb3aa421f69b551affd7c83091e80aaf5f182a813587f39dab437b7",
+            "sha256": "0x654632634eff854a85ff32bdf7b2d6b3144af8d6f80ae755296987684e670f60",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.8.7+commit.2128cde5.zip",
+            "version": "0.8.7",
+            "build": "commit.2128cde5",
+            "longVersion": "0.8.7+commit.2128cde5",
+            "keccak256": "0x371c3d247da18e538ef46b7a2420c0fe2fda30c168b2562713f1aee6e056a21d",
+            "sha256": "0x4d220a6ec106a78f21a6bf76bc6b2cbfb2c1c6b99be854193a0e5926f1d21820",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.8.11+commit.b01f3284.zip",
+            "version": "0.8.11",
+            "build": "commit.b01f3284",
+            "longVersion": "0.8.11+commit.b01f3284",
+            "keccak256": "0x1f59e66f8c41e498d6362cdbc1d7bad326f1d3780d1fb7ff52ddeb5ffe929a5f",
+            "sha256": "0xdd5707b2f5c34222a8893d950482d4a1b40d58964f1c0ebc8f43903de90dbc94",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.8.18+commit.f18bedfe.exe",
+            "version": "0.8.18",
+            "build": "commit.f18bedfe",
+            "longVersion": "0.8.18+commit.f18bedfe",
+            "keccak256": "0x2fc31807d9b553096c06ef6e959e84eacd0dbdcee67c22621d33524ab63856c4",
+            "sha256": "0xb98aa24c0b1c5a9b9b0b9636cf9de1a2635afcf09554d1bfb832d0f0330e01e2",
+            "urls": [
+            ]
+        }
+    ]
+}

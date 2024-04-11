@@ -1,0 +1,254 @@
+{
+    "builds": [
+        {
+            "path": "solc-linux-amd64-v0.4.25+commit.39a3dad1.zip",
+            "version": "0.4.25",
+            "build": "commit.39a3dad1",
+            "longVersion": "0.4.25+commit.39a3dad1",
+            "keccak256": "0x0a461b6bc1193525676449dc61ccb8cc78a7ded1dbc93d0423917cdae033e2ae",
+            "sha256": "0xaffd2e8d29a61738ff2c557ea87a3569cabcef8224fbdfa46f0821732d05ca1b",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.4+commit.d15a3125.zip",
+            "version": "0.5.4",
+            "build": "commit.d15a3125",
+            "longVersion": "0.5.4+commit.d15a3125",
+            "keccak256": "0xdc892a7c3c1861aa83c8b3a697ad1f335bcd60a49c2c480db02f497ebf0afb6b",
+            "sha256": "0x4660f5c203c6a1449819aeaba76289afa1ae02dca9af656f5b9f75b16b00451d",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.8+commit.1f148fe1.zip",
+            "version": "0.5.8",
+            "build": "commit.1f148fe1",
+            "longVersion": "0.5.8+commit.1f148fe1",
+            "keccak256": "0xb53ab78f0213c3cdc3a6885f51770310cb10d22df5ac0b74fa5ee40dac4b0bda",
+            "sha256": "0x7094bace924dff48087f9608d99ff6f1d7e7786228dacdcb24171abc51573bf4",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.9+commit.ef2a04b8.zip",
+            "version": "0.5.9",
+            "build": "commit.ef2a04b8",
+            "longVersion": "0.5.9+commit.ef2a04b8",
+            "keccak256": "0x48ffeb15bdfbe2ae29861f2c5f4728bc9c77885f6a10f4b02529f1c523ce30fe",
+            "sha256": "0x2d9e288f14f82604a7e81bc00472663e4b1dedd249d82bc96bacf85d64fa2f34",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.10+commit.a1d534ef.zip",
+            "version": "0.5.10",
+            "build": "commit.a1d534ef",
+            "longVersion": "0.5.10+commit.a1d534ef",
+            "keccak256": "0x814841d9a2f066f0888a2240f2ac845d2f6cfac4a06c88db54a224ce71b8197f",
+            "sha256": "0xda8d73f733e5efeaeab0c597532ce026d01aeecb7f7dac70e0ac9be645b9949d",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.12+commit.29ca5e67.zip",
+            "version": "0.5.12",
+            "build": "commit.29ca5e67",
+            "longVersion": "0.5.12+commit.29ca5e67",
+            "keccak256": "0x2872d87060d9dd81b3756bd606a896635271be16b3d15802173a8f010004c520",
+            "sha256": "0x443f884c12402b84f665814488f78dcee6a04b621674c1bcc1e91ec014d18042",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.13+commit.37057bfe.zip",
+            "version": "0.5.13",
+            "build": "commit.37057bfe",
+            "longVersion": "0.5.13+commit.37057bfe",
+            "keccak256": "0x11fd54bc58fa7e7153bfe2c2b74f6a2f61dbfbd5f77b6af9eeac55fb94df08f4",
+            "sha256": "0x867c22cd28a9ab9a6452449b5c18866aa8acadafc371c76b33fc5fdc4ba68574",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.14+commit.100ccf38.zip",
+            "version": "0.5.14",
+            "build": "commit.100ccf38",
+            "longVersion": "0.5.14+commit.100ccf38",
+            "keccak256": "0x1de4ff7c9349662258945518b720f5f64eba2251d11a0c727b1d966cc25e7ef4",
+            "sha256": "0x3da3eb15f75fd40eb282577b55d9a48985432be87947c1288c6fae97424e3303",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.15+commit.fd7f48cf.zip",
+            "version": "0.5.15",
+            "build": "commit.fd7f48cf",
+            "longVersion": "0.5.15+commit.fd7f48cf",
+            "keccak256": "0x1f1ea8065d0e954e577ea3daeaa8a6a1744c726e44163b4d68eb590b2a5f914a",
+            "sha256": "0x1a07b3473d93dbdd5de14b1b188f0fea94bf56619a63dc9f0cc36a3c70e22838",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.16+commit.7d79e845.zip",
+            "version": "0.5.16",
+            "build": "commit.7d79e845",
+            "longVersion": "0.5.16+commit.7d79e845",
+            "keccak256": "0x1e170a385bc080d9f49cb30952e4dc018abac20b5215343f9de81425d5019812",
+            "sha256": "0x01e057ba825deadedc452bdd269b849045f08a73e0ff3fa93722b50c4b7000ad",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.17+commit.0a0a1275.zip",
+            "version": "0.5.17",
+            "build": "commit.0a0a1275",
+            "longVersion": "0.5.17+commit.0a0a1275",
+            "keccak256": "0xf4a3225443779d271989662b638637e63cae91d1eb21bbd98cda040c116c6e2b",
+            "sha256": "0x4628c959224dc218e46bbbbd8bb2135dab1da9b2c71ed06d0a6736dd9151c51b",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.5.18+commit.6124c569.zip",
+            "version": "0.5.18",
+            "build": "commit.6124c569",
+            "longVersion": "0.5.18+commit.6124c569",
+            "keccak256": "0xcd0a5461425e65348f1dabc8ae2f9e4d6c840c7461d1b91ce19727cc1ff48090",
+            "sha256": "0xe2f920d752d3d0eb42c0ce18184a0f0ef0a4df9f889344aa1120b607cf592036",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.6.0+commit.f8669616.zip",
+            "version": "0.6.0",
+            "build": "commit.f8669616",
+            "longVersion": "0.6.0+commit.f8669616",
+            "keccak256": "0xc93411aef84f5e924946b462819a3e78ec0591e663e805275b4be195e33e9d64",
+            "sha256": "0x2f3c9acaf65608fb022f905e7d8231a98ef5882d2aa7f6695257f5d46f3d0751",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.6.2+commit.e3d402bc.zip",
+            "version": "0.6.2",
+            "build": "commit.e3d402bc",
+            "longVersion": "0.6.2+commit.e3d402bc",
+            "keccak256": "0x1168ae4fe91b02d6fa146acb1fa221ed3d02db831e821d2385bab01c33b88fb4",
+            "sha256": "0xb34fa64afa823a09180d74f27c8468abf22d0bfbe2721d42830f11803957ee42",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.6.8+commit.f8ac1157.zip",
+            "version": "0.6.8",
+            "build": "commit.f8ac1157",
+            "longVersion": "0.6.8+commit.f8ac1157",
+            "keccak256": "0x8cc7b57ac2586130327420f314a31136a811da6988fc971b4830948bfce65aed",
+            "sha256": "0x001113e2e934561074ea7aafca394ed8da8f77b3e6706f5402057510ce522ec1",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.6.12+commit.5e807836.zip",
+            "version": "0.6.12",
+            "build": "commit.5e807836",
+            "longVersion": "0.6.12+commit.5e807836",
+            "keccak256": "0x29bfd13f2355b287e18b80747add9559f355848b7961b173e8ba8d233460f730",
+            "sha256": "0xe8a332ae69fc353329e2b4eaf8e7e61ba10805f9717293ff71be17b761f3f41d",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.6.13+commit.b8267195.zip",
+            "version": "0.6.13",
+            "build": "commit.b8267195",
+            "longVersion": "0.6.13+commit.b8267195",
+            "keccak256": "0x528dbe7181f435e5193aa20c2c67d8e83dbbb36546c1c5450307dfe7517c4b08",
+            "sha256": "0x2f7d11977e931a75309b4bf72aafafd32a6536fa12ae4109c221495113e796d1",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.7.0+commit.a37b7b90.zip",
+            "version": "0.7.0",
+            "build": "commit.a37b7b90",
+            "longVersion": "0.7.0+commit.a37b7b90",
+            "keccak256": "0x9397dc4d780eea661e5398cac3a5fa2ae09ff0990e7fb0f2e561c5968168dc95",
+            "sha256": "0x5493e1a17065a8f2d3de3958fb5500690bbe734a278163241ebcc2f0dc649c5f",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.7.6+commit.d1802f25.zip",
+            "version": "0.7.6",
+            "build": "commit.d1802f25",
+            "longVersion": "0.7.6+commit.d1802f25",
+            "keccak256": "0x6d2986902b4a6d305b505a0d75c07a2ad8662726d0fd50eee6a0bd17d5be56bc",
+            "sha256": "0xfa912688ea66c416c30faee5cfb4d7d8c690d5a79881ec2a14e37a6304f6d5fb",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.7.7+commit.0423f3a6.zip",
+            "version": "0.7.7",
+            "build": "commit.0423f3a6",
+            "longVersion": "0.7.7+commit.0423f3a6",
+            "keccak256": "0x50102f2f65270c2473d46b1aeea0639105ffeaffc0e5477fdd3a7ee7f8545109",
+            "sha256": "0xd3760940d356e7587a9a9bf0094368d2cbb2c62b0f3d08d07491adb56e77b5ce",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.8.0+commit.7c2e6412.zip",
+            "version": "0.8.0",
+            "build": "commit.7c2e6412",
+            "longVersion": "0.8.0+commit.7c2e6412",
+            "keccak256": "0x4bdd22e89721eec3b95935b6f4200125a6e0d03766f5b7b7e835e43acd237340",
+            "sha256": "0x1216df1a93c6ee5b822d84bf4e69c4ee6ccf8f17fb89f2dfd2c5fb968bd16c27",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.8.6+commit.0e36fba0.zip",
+            "version": "0.8.6",
+            "build": "commit.0e36fba0",
+            "longVersion": "0.8.6+commit.0e36fba0",
+            "keccak256": "0x48f5ef47520f6e613e6b6348cdbcbd46d01783ad21bcf0cfb211a75d9fb45402",
+            "sha256": "0xf300110daf356f8fd3cd901cf34d8ba8db1b946cd061afa36aba6dd62cbaff7c",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.8.7+commit.2128cde5.zip",
+            "version": "0.8.7",
+            "build": "commit.2128cde5",
+            "longVersion": "0.8.7+commit.2128cde5",
+            "keccak256": "0x5c87ac3e1f73c4f47f6118de510240805aef0bef5910712a4216fd2036af4709",
+            "sha256": "0x09ae99f76dced81e1ac8d025d0cab7b5e34660add1277ca0fab317084b88360b",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.8.11+commit.b01f3284.js",
+            "version": "0.8.11",
+            "build": "commit.b01f3284",
+            "longVersion": "0.8.11+commit.b01f3284",
+            "keccak256": "0xd92b24d26efca4d80f0194b9c1ad87e20c3afb51770677cbf55970ac8882d3cd",
+            "sha256": "0x7bc96d4324307b3b430e13de2e720e515686e52a030cb173e93aa928a1e96feb",
+            "urls": [
+            ]
+        },
+        {
+            "path": "solc-linux-amd64-v0.8.18+commit.f18bedfe",
+            "version": "0.8.18",
+            "build": "commit.f18bedfe",
+            "longVersion": "0.8.18+commit.f18bedfe",
+            "keccak256": "0x0879a1d6bc145a50854126c77e632dc8129197e8474a5cd410f1b34a56356efd",
+            "sha256": "0xafdf3f5036d095e8391be62f962a4cc75e4d775f6f6059e54203d26fc1754eb1",
+            "urls": [
+            ]
+        }
+    ]
+}
