@@ -249,6 +249,16 @@
             "sha256": "0xb98aa24c0b1c5a9b9b0b9636cf9de1a2635afcf09554d1bfb832d0f0330e01e2",
             "urls": [
             ]
+        },
+        {
+            "path": "solc-windows-amd64-v0.8.20+commit.5f1834b.exe",
+            "version": "0.8.20",
+            "build": "commit.5f1834b",
+            "longVersion": "0.8.20+commit.5f1834b",
+            "keccak256": "0x782eac7558ffb22104b442071e2b12319daaf05960c2eaf4126d2284922531ae",
+            "sha256": "0x40f1ea8152e9ba0a0b19063082f354574d62d844dc19c48db4fe5b752a1f412b",
+            "urls": [
+            ]
         }
     ]
 }
