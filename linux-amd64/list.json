@@ -270,5 +270,16 @@
             "urls": [
             ]
         }
+        ,
+        {
+            "path": "solc-linux-amd64-v0.8.22+commit.5ed3e10f",
+            "version": "0.8.22",
+            "build": "commit.5ed3e10f",
+            "longVersion": "0.8.22+commit.5ed3e10f",
+            "keccak256": "0xf22d1c9d284fdac612b6b40c4c1235860e2d48d16d0bc21113f266f401e0bc05",
+            "sha256": "0xe17eb8c2f44ad954362603ab4c6419d97e2360510f54fd09fcce3d2265162fab",
+            "urls": [
+            ]
+        }
     ]
 }
