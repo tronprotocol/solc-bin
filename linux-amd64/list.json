@@ -269,8 +269,7 @@
             "sha256": "0x18409560191a349a010cfb5931926c6ffc9f51072c115cf615c115699bd4835b",
             "urls": [
             ]
-        }
-        ,
+        },
         {
             "path": "solc-linux-amd64-v0.8.22+commit.5ed3e10f",
             "version": "0.8.22",
