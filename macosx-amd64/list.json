@@ -279,6 +279,16 @@
             "sha256": "0xb8252b726a09f88516101a678abd8eb7506ce196f293df0649dc95f3f0bc5922",
             "urls": [
             ]
+        },
+        {
+            "path": "solc-macosx-amd64-v0.8.23+commit.8ed33446",
+            "version": "0.8.23",
+            "build": "commit.8ed33446",
+            "longVersion": "0.8.23+commit.8ed33446",
+            "keccak256": "0x354141f2d409a8fdd4983de66bfbde5a1a50553aed4fc57ccac675bfd63b5c8c",
+            "sha256": "0x0397a9dfc52667a36f6020f5f99977114ebda4758bc49b246d622fd727a72058",
+            "urls": [
+            ]
         }
     ]
 }
