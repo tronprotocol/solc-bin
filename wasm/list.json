@@ -309,6 +309,15 @@
             "sha256": "0x70a068c5b090ef1b1b2410f92713eabc459501edfebb127034a46f9448d9d244",
             "urls": [
             ]
+        },
+        {
+          "path": "soljson-v0.8.26+commit.3e2818db.js",
+          "version": "0.8.26",
+          "build": "commit.3e2818db",
+          "longVersion": "0.8.26+commit.3e2818db",
+          "keccak256": "0x7dd4f16cf5d78e59930a7abc33a3971b1ffbd7a3e3ce445bca5d4fb26d5b131a",
+          "sha256": "0xcf2c29459e8f373c7fd4277cc4eeee66b0b25fa3dfea0f07454ac1de354448b3",
+          "urls": []
         }
     ]
 }
