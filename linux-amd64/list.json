@@ -309,6 +309,15 @@
             "sha256": "0x203573476b68e657d274fffc6713214497881439039f2c74a9c64fe9e8a58ccf",
             "urls": [
             ]
+        },
+        {
+          "path": "solc-linux-amd64-v0.8.26+commit.733b4d28",
+          "version": "0.8.26",
+          "build": "commit.733b4d28",
+          "longVersion": "0.8.26+commit.733b4d28",
+          "keccak256": "0x04acba1363ef88b89943b181c12307650d3bbd749330f6bf37187e33428eb869",
+          "sha256": "0x98a0df6518346d07f13ec151f64bed48f4df9dd01fbfd81018f9485a374f8edd",
+          "urls": []
         }
     ]
 }
