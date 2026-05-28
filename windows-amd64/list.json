@@ -318,6 +318,15 @@
           "keccak256": "0xe1728bb479a8b65522b7dbcf5ce4e5735437274eb4c5da4ce0169e78fb4e853f",
           "sha256": "0xbbb9e290265494e8ec9c31482b42e8bc4310d71bb37bb773bc97524b12d52d2a",
           "urls": []
+        },
+        {
+          "path": "solc-windows-amd64-v0.8.27+commit.19164bed.exe",
+          "version": "0.8.27",
+          "build": "commit.19164bed",
+          "longVersion": "0.8.27+commit.19164bed",
+          "keccak256": "0xf9cf52300f8f34e25ba98a203c8f8501f5d2cb9dc9628ba4c49e1376b3463de4",
+          "sha256": "0x6c387a01ac81ad044c0f37816c059828c1080cc38f5882fd1f08d58f990ac7e0",
+          "urls": []
         }
     ]
 }
