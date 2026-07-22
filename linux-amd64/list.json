@@ -336,6 +336,15 @@
             "keccak256": "0xefea7fe42d52238225c206dd3a66ea7a8f116fc60f20fe97eb675f4b07b94301",
             "sha256": "0x0eba121b08e9fbc1019e71bb6d36467a7f653929af9f51a793a17688d859f856",
             "urls": []
+        },
+        {
+            "path": "solc-linux-amd64-v0.8.29+commit.c4efc248",
+            "version": "0.8.29",
+            "build": "commit.c4efc248",
+            "longVersion": "0.8.29+commit.c4efc248",
+            "keccak256": "0xb525e7649a49d09f325b54c9aff81fd26b8092f1ab0a7ad72c46f5cbc8fc515d",
+            "sha256": "0x7188205993df83bdf31e870779b252a437bec048714404230f401e5f0fbc2220",
+            "urls": []
         }
     ]
 }
