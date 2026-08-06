@@ -345,6 +345,15 @@
             "keccak256": "0x2d8a5ecee6e68687adb792fd573d18882e1f032e6dd1dbf6b361a1062ab429e5",
             "sha256": "0xd37afbbcb87370e6fe37f9115cf867363edf0c1a9b3b58d71ad8af98786e625b",
             "urls": []
+        },
+        {
+            "path": "soljson-v0.8.30+commit.343938e7.js",
+            "version": "0.8.30",
+            "build": "commit.343938e7",
+            "longVersion": "0.8.30+commit.343938e7",
+            "keccak256": "0x1fff0bdf24d999f1ccc0020b6e86c13f5d8bfe307baec3151c2a5693c1d2ac8a",
+            "sha256": "0x59bb6f8f91793045bce0cc5bb9c6547a7425612b1ac66fd666f9ef1dad75ea46",
+            "urls": []
         }
     ]
 }
