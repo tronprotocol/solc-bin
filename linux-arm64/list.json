@@ -8,6 +8,15 @@
             "keccak256": "0x67cf8cadb0d5b6ffcb4f67396f3fdc517ef446b25a212d8da9a3d4955b77fdac",
             "sha256": "0x8388ebaba91254f2be08c334fb0d853ec6f9745797fbd5db9f952cec18a88991",
             "urls": []
+        },
+        {
+            "path": "solc-linux-arm64-v0.8.33+commit.b6af945a",
+            "version": "0.8.33",
+            "build": "commit.b6af945a",
+            "longVersion": "0.8.33+commit.b6af945a",
+            "keccak256": "0x7740aa7bdbebe3c0ed4e4bbeb87bf696ded3885e2bbf838c53ffe9c71393cfcd",
+            "sha256": "0x7ec41ad7f6a0a5741a8263f555622402d7ed2b088b3d9ad6cd4f31a277484b64",
+            "urls": []
         }
     ]
 }
